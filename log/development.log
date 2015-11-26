@@ -1,0 +1,275 @@
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_colors.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.css.scss to /home/pt1311/programming/rails/baukis/app/assets/stylesheets/staff/_dimensions.scss. (called from call at /root/.rbenv/versions/2.2.3/lib/ruby/2.2.0/rake/task.rb:240)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-25 00:42:19 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/railties-4.2.5/lib/rails/templates/rails/welcome/index.html.erb (1.7ms)
+Completed 200 OK in 22ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/staff" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+Processing by Staff::TopController#index as HTML
+  Rendered staff/top/index.html.erb within layouts/staff (1.1ms)
+  Rendered shared/_header.html.erb (0.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 159ms (Views: 149.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/staff/_colors.self-c85937b01da06a2508a758fd148cee14dfff3cf7733b003952d0f11d9b7369eb.css?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/staff/_dimensions.self-de0e60c45c00f965fb4ce7d5fdb013c35312d60ac726ff4b74f5c75933f681eb.css?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/staff/container.self-d987ee03f9bcade4e3083739285dbed9ee5f0fe1e75e3f2b55994c3c3cc55ab1.css?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/staff.self-2ad7b122e9e7362abc2808a401f7ebfec96d8933baffcbdc3606dec0b8d0191f.css?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/staff/layout.self-2e35bbf30c0b85b8a6dd1e3a1f41e7bfd577c5d65f097f3843608358c6548e51.css?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-25 00:50:33 +0900
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-25 15:21:07 +0900
+Processing by ErrorsController#routing_error as HTML
+Completed 500 Internal Server Error in 62ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.8ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (21.5ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (15.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (43.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-25 15:21:50 +0900
+Processing by ErrorsController#routing_error as HTML
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.5ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (18.9ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (14.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (27.1ms)
+
+
+Started GET "/staff" for 127.0.0.1 at 2015-11-25 15:22:00 +0900
+Processing by Staff::TopController#index as HTML
+  Rendered errors/internal_server_error.html.erb within layouts/staff (0.7ms)
+  Rendered shared/_header.html.erb (0.7ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 500 Internal Server Error in 292ms (Views: 290.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/shared/errors.self-305210d32dac6eb405138f48aa22d043a6b42cdf9cd99ff5f87c1e3f08fddfa8.css?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/staff/_colors.self-c85937b01da06a2508a758fd148cee14dfff3cf7733b003952d0f11d9b7369eb.css?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/staff/container.self-d987ee03f9bcade4e3083739285dbed9ee5f0fe1e75e3f2b55994c3c3cc55ab1.css?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/staff/_dimensions.self-de0e60c45c00f965fb4ce7d5fdb013c35312d60ac726ff4b74f5c75933f681eb.css?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/staff.self-dae5c5da7223ce739ad497817a3df9ba2fa2840da302653b11558b4f7d98bfc3.css?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/staff/layout.self-2e35bbf30c0b85b8a6dd1e3a1f41e7bfd577c5d65f097f3843608358c6548e51.css?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-11-25 15:22:01 +0900
+
+
+Started GET "/staff" for 127.0.0.1 at 2015-11-25 15:22:05 +0900
+Processing by Staff::TopController#index as HTML
+  Rendered errors/internal_server_error.html.erb within layouts/staff (0.1ms)
+  Rendered shared/_header.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 500 Internal Server Error in 72ms (Views: 67.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/staff" for 127.0.0.1 at 2015-11-25 15:22:07 +0900
+Processing by Staff::TopController#index as HTML
+  Rendered errors/internal_server_error.html.erb within layouts/staff (0.1ms)
+  Rendered shared/_header.html.erb (0.0ms)
+  Rendered shared/_footer.html.erb (0.0ms)
+Completed 500 Internal Server Error in 46ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-11-25 15:22:09 +0900
+Processing by ErrorsController#routing_error as HTML
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (18.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (14.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (28.3ms)
+
+
+Started GET "/dsds" for 127.0.0.1 at 2015-11-25 15:22:57 +0900
+Processing by ErrorsController#routing_error as HTML
+  Parameters: {"anything"=>"dsds"}
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (19.1ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (13.5ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (26.0ms)
+
+
+Started GET "/ge" for 127.0.0.1 at 2015-11-25 15:23:00 +0900
+Processing by ErrorsController#routing_error as HTML
+  Parameters: {"anything"=>"ge"}
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.9ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (19.5ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (13.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (27.0ms)
+
+
+Started GET "/gr" for 127.0.0.1 at 2015-11-25 15:23:03 +0900
+Processing by ErrorsController#routing_error as HTML
+  Parameters: {"anything"=>"gr"}
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (17.5ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (13.7ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (26.0ms)
+
+
+Started GET "/jr" for 127.0.0.1 at 2015-11-25 15:23:05 +0900
+Processing by ErrorsController#routing_error as HTML
+  Parameters: {"anything"=>"jr"}
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms)
+
+ActionView::MissingTemplate (Missing template layouts/customer with {:locale=>[:ja], :formats=>[:html], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/pt1311/programming/rails/baukis/app/views"
+):
+  app/controllers/application_controller.rb:29:in `rescue404'
+
+
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (18.9ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (14.6ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.2ms)
+  Rendered /root/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (27.3ms)
